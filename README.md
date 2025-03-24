@@ -6,7 +6,7 @@ Avoidance of Obstacles Using Reinforcement Learning
 
   Ubuntu 22.04 \
   ROS2 HUMBLE \
-  NVIDIA Driver 550 \
+  NVIDIA Driver 550.120 \
   CUDA 12.4 \
   Isaac Sim 4.5.0
 
